@@ -45,6 +45,7 @@ A secure desktop password manager built with C# Windows Forms that allows users 
 1. Clone the repository
 ```bash
 git clone [repository-url]
+```
 Open the solution in Visual Studio
 
 Update the database connection string in App.config
@@ -84,7 +85,7 @@ HTTPS validation ensures secure website entries
 Clipboard content is automatically cleared
 Password strength is evaluated in real-time
 Project Structure
-
+```
 PasswordManager/
 │
 ├── Forms/
@@ -104,6 +105,7 @@ PasswordManager/
 └── Utils/
     ├── Encryption.cs
     └── ...
+```
 Contributing
 Fork the repository
 Create a feature branch

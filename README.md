@@ -54,36 +54,45 @@ Run the database migration scripts (located in Database folder)
 
 Build and run the application
 
-Database Setup
+## Database Setup
+
 The application requires a SQL Server database. Run the following scripts in order:
 
-Create database schema
-Create tables
-Initialize admin user
-Usage
-First Time Setup
-Launch the application
-Login with default admin credentials:
-Username: admin
-Password: admin123
-Change the default password immediately
-Adding New Passwords
-Click "Manage Passwords"
-Click "Add New Password"
-Enter website URL (must be HTTPS)
-Enter username
-Either enter password manually or use password generator
-Click Save
-Managing Users (Admin Only)
-Click "Manage Users"
-Add, edit, or delete users
-Set user roles (admin/basic)
-Security Considerations
-All passwords are encrypted before storage
-Passwords are never stored in plain text
-HTTPS validation ensures secure website entries
-Clipboard content is automatically cleared
-Password strength is evaluated in real-time
+1. **Create database schema
+2. **Create tables
+3. **Initialize admin user
+
+## Usage
+
+### First Time Setup
+
+- Launch the application
+- Login with default admin credentials:
+    - **Username: admin
+    - **Password: admin123
+
+### Adding New Passwords
+
+- Click "Manage Passwords"
+- Click "Add New Password"
+- Enter website URL (must be HTTPS)
+- Enter username
+- Either enter password manually or use password generator
+- Click Save
+
+### Managing Users (Admin Only)
+- Click "Manage Users"
+- Add, edit, or delete users
+- Set user roles (admin/basic)
+
+### Security Considerations
+
+- All passwords are encrypted before storage
+- Passwords are never stored in plain text
+- HTTPS validation ensures secure website entries
+- Clipboard content is automatically cleared
+- Password strength is evaluated in real-time
+
 Project Structure
 ```
 PasswordManager/
@@ -106,16 +115,17 @@ PasswordManager/
     ├── Encryption.cs
     └── ...
 ```
-Contributing
-Fork the repository
-Create a feature branch
-Commit your changes
-Push to the branch
-Create a Pull Request
-Future Enhancements
-Password expiration notifications
-Two-factor authentication
-Password sharing capabilities
-Browser extension integration
-Backup and restore functionality
-Password import/export features
+### Contributing
+- Fork the repository
+- Create a feature branch
+- Commit your changes
+- Push to the branch
+- Create a Pull Request
+
+### Future Enhancements
+- Password expiration notifications
+- Two-factor authentication
+- Password sharing capabilities
+- Browser extension integration
+- Backup and restore functionality
+- Password import/export features

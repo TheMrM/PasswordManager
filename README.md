@@ -134,14 +134,13 @@ PasswordManager/
 
 ![Login](projectimages/Login.png "Login")
 ![Sining-up-New-User](projectimages/Sign-up.png "Sign-up")
+![SavingAccount](projectimages/SavingAccount1.png "Saving Account")
 ![Adding account Fail](projectimages/Sign-up-Fail.png "Adding account Fail")
 ![Adding account Ok](projectimages/Sign-up-Ok.png "Adding account Ok")
-![SavingAccount](projectimages/SavingAccount1.png "Saving Account")
-![Login](projectimages/Login.png "Login")
-![Login](projectimages/Login.png "Login")
-![Login](projectimages/Login.png "Login")
-![Login](projectimages/Login.png "Login")
-![Login](projectimages/Login.png "Login")
-![Login](projectimages/Login.png "Login")
+![Acount Saved](projectimages/Saved-Successfully.png "Account added")
+![Account Options](projectimages/Sign-up-PasswordPreview.png "Account options")
+![Adding User to DB](projectimages/Adding-User.png "Adding user")
+![Adding User successfully](projectimages/Adding-User-Ok.png "Successfully")
+![User added](projectimages/Adding-User-Ok1.png "User added")
 
 

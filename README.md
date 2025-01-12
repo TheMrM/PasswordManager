@@ -129,3 +129,19 @@ PasswordManager/
 - Browser extension integration
 - Backup and restore functionality
 - Password import/export features
+
+### Images on how the app works and it's functionalities
+
+![Login](projectimages/Login.png "Login")
+![Sining-up-New-User](projectimages/Sign-up.png "Sign-up")
+![Adding account Fail](projectimages/Sign-up-Fail.png "Adding account Fail")
+![Adding account Ok](projectimages/Sign-up-Ok.png "Adding account Ok")
+![SavingAccount](projectimages/SavingAccount1.png "Saving Account")
+![Login](projectimages/Login.png "Login")
+![Login](projectimages/Login.png "Login")
+![Login](projectimages/Login.png "Login")
+![Login](projectimages/Login.png "Login")
+![Login](projectimages/Login.png "Login")
+![Login](projectimages/Login.png "Login")
+
+
